@@ -1,0 +1,1 @@
+C:\PROGRA~2\MICROS~3\2022\BUILDT~1\VC\Tools\MSVC\1444~1.352\bin\Hostx86\x86\lib.exe /nologo /machine:X86 /out:mbedx509.lib @CMakeFiles\mbedx509.dir\objects1.rsp

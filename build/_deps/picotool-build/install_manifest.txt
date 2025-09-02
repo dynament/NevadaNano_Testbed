@@ -1,0 +1,5 @@
+C:/Users/craig.hemingway/VisualCode_Workspace/NevadaNano_TestBed/build/_deps/picotool/picotool.exe
+C:/Users/craig.hemingway/VisualCode_Workspace/NevadaNano_TestBed/build/_deps/picotool/picotoolTargets.cmake
+C:/Users/craig.hemingway/VisualCode_Workspace/NevadaNano_TestBed/build/_deps/picotool/picotoolTargets-debug.cmake
+C:/Users/craig.hemingway/VisualCode_Workspace/NevadaNano_TestBed/build/_deps/picotool/picotoolConfig.cmake
+C:/Users/craig.hemingway/VisualCode_Workspace/NevadaNano_TestBed/build/_deps/picotool/picotoolConfigVersion.cmake
